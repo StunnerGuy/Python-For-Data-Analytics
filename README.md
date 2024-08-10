@@ -1,2 +1,2 @@
-# Python-For-Data-Analytics
-Exploring Data Analytics With Python.
+This is a README file for Python.
+Exploring Data Anlysis With Python.
